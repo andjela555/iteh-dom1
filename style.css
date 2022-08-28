@@ -1,0 +1,7 @@
+body{
+  background-image: url('background');
+  background-size: cover;
+}
+.transparent{
+  opacity: 0.8;
+}
