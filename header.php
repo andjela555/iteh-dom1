@@ -28,8 +28,6 @@
                 <li class="nav-item mx-auto">
                     <a class="nav-link" href="prikazi.php">Prikazi</a>
                 </li>
-
-
             </ul>
         </div>
     </nav>

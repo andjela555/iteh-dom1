@@ -17,7 +17,7 @@ class Broker{
             while($red=$rezultat->fetch_object()){
                 $rez[]=$red;
             }
-            return $rez;
+        return $rez;
     }
     function upisi($upit){
         $rezultat=$this->mysqli->query($upit);
@@ -29,5 +29,3 @@ class Broker{
     }
    
 }
-
-?>
